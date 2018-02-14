@@ -1,3 +1,3 @@
 # Practice_repo
 
-locally Added the first line in README
+This is the first line
