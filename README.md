@@ -1,3 +1,3 @@
-# Practice_repo
+# Github Test
 
 This is the first line
