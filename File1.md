@@ -1,6 +1,5 @@
 # This is File 1
-. Modified Line 1
-.
+Added product_homepage feature by Person B
 .
 this is line 5-1 -- This is person A
 this is line 5-2 --- This is person B
